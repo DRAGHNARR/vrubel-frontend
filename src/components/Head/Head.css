@@ -1,0 +1,35 @@
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 0;
+}
+
+.head__links {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 30px;
+}
+
+.head__title {
+    margin: 0;
+}
+
+.head__menu {
+    display: flex;
+}
+
+.head__menu-list {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.head__menu-item {
+    display: flex;
+    text-decoration: none;
+}

@@ -1,0 +1,16 @@
+.processes {
+    display: flex;
+    min-height: 100px;
+    padding: 50px 0;
+}
+
+.processes-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding: 0;
+    margin: auto;
+    list-style: none;
+}
